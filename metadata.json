@@ -1,0 +1,5 @@
+{
+  "name": "Sorteador Inteligente",
+  "description": "Um aplicativo elegante para sortear números de 1 a 10 sem repetição, com a capacidade de desfazer escolhas.",
+  "requestFramePermissions": []
+}
